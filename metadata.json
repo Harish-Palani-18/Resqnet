@@ -1,0 +1,6 @@
+{
+  "name": "RESQNET — Smart Disaster Rescue Platform",
+  "description": "Rapid emergency rescue coordination, victim location mapping, and smart rescue team route dispatch.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
